@@ -35,3 +35,7 @@
     padding-top: 5em;
     padding-bottom: 5em;
 }
+
+body {
+    background-image: url("./images/1.jpg");
+}
